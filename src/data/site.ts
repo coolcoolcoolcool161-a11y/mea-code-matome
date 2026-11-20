@@ -3,14 +3,14 @@
 export const SITE = {
   name: '紹介コードまとめブログ',
   operator: 'メア',
-  siteUrl: 'https://mea-code-matome.pages.dev',
+  siteUrl: 'https://coolcoolcoolcool161-a11y.github.io/mea-code-matome',
   description:
     'ポイ活の紹介コード・招待コードを19サービス分まとめて掲載。ワラウ最大2,500pt、ハピタス最大2,300P、モッピー最大7,000P、TikTok・TikTok Lite、PayPay、メルカリ、エアウォレット、楽天モバイル、オリくじ、ポケカツ、Freecash、SMBC Olive、Muse、サンポ、ぶたまる、ミラポイ、トクエル、dipsファームの特典・条件・紹介リンクを一覧で比較。コードはコピーボタンでそのまま使えます。',
   dateModified: '2026-11-19',
   gaMeasurementId: '',
   xAccount: 'https://x.com/pppppuririn',
   hubUrl:
-    'https://muse.ai/s/musezong-he-medeia-pr6xcxtfrplwxt/NPnupwzcqqtYUBN_-w0KoHvF5cDIBSAOBo4Nt8ve-5o',
+    'https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-media/',
   // 新しい掲示板は公開準備中。公開後はこちらから開けます。
   boardUrl: 'https://mea-keijiban.pages.dev',
 } as const;
@@ -56,37 +56,37 @@ export const MATOME_ORDER = [
   'dips',
 ] as const;
 
-// 姉妹ブログ（旧サイトには姉妹ブログ欄がなかったため、他サイトと同じ5件を新設。旧muse.ai URL。姉妹サイトの移行が完了したら新pages.dev URLに更新する）
+// 姉妹ブログ（旧サイトには姉妹ブログ欄がなかったため、他サイトと同じ5件を新設。旧muse.ai URL。2026-11-21にGitHub Pagesの新URLへ更新済み）
 export const SISTER_BLOGS = [
   {
     name: 'ポイ活ブログ',
     note: 'ランキングや特集が充実した総合版',
-    url: 'https://muse.ai/s/poihuo-burogu-xlxi6xcxsxg4ghx07/74yi0ejxEmcRwO9Gsp15bpRovm76_UruhoA3biG-N2o',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-blog/',
   },
   {
     name: '紹介コードランキング',
     note: '特典の大きさ順に並べたランキング版',
-    url: 'https://muse.ai/s/shao-jie-kodorankingu-jxj6xcxsxfxqxj6xqx0/OqiA00u9xkaSI9_7bBwCrskhhMRQu3SkOvHqtDonW84',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-ranking/',
   },
   {
     name: 'ポイ活コード検索',
     note: 'サービス名で検索してすぐ探せる検索版',
-    url: 'https://muse.ai/s/poihuo-kodojian-suo-hb6xcxsxg20qsxl/6jl8s6igC6cBHibzVwCEADiLunryhUT0jRZr_pVQrQE',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-code-search/',
   },
   {
     name: 'ポイ活マガジン',
     note: '読み物スタイルでじっくり紹介する雑誌版',
-    url: 'https://muse.ai/s/poihuo-magazin-ob6xcxsxgwsxa0y/2A2y1OC2F5lmACOSYdjgyPIv_dFmUkHnjAtMs7Xkfcc',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-magazine/',
   },
   {
     name: 'かんたん紹介コード案内',
     note: '大きな文字で分かりやすく案内するかんたん版',
-    url: 'https://muse.ai/s/kantanshao-jie-kodoan-nei-sb6xcxsxgtxkxkbk/iHPHnEFAX37Hrni_FagP81wlqfSoecaEv0cODGcaaS8',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-kantan-guide/',
   },
   {
     name: 'ゲームポイ活ブログ',
     note: 'ゲームで貯める案件に特化した版',
-    url: 'https://muse.ai/s/gemupoihuo-burogu-gxi6xcxsxgpf18xc/dc3zg6z-_dnAhCoD7Nkbu9w9wGj0ytBYpNWuVBeOS-I',
+    url: 'https://coolcoolcoolcool161-a11y.github.io/mea-game-poikatsu/',
   },
 ] as const;
 

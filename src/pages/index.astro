@@ -57,11 +57,11 @@ const categoryHeadings: Record<string, string> = {
 <BaseLayout title={title} description={SITE.description} canonicalPath="/" jsonLd={jsonLd}>
   <div class="wrap">
     <div class="hero">
-      <img src="/images/hero.jpg" alt="ピンクの背景でメアがポイ活×招待コード×紹介系をお届けするバナー（一緒におトクをGETしよう♡）" width="1179" height="393" />
+      <img src="/mea-code-matome/images/hero.jpg" alt="ピンクの背景でメアがポイ活×招待コード×紹介系をお届けするバナー（一緒におトクをGETしよう♡）" width="1179" height="393" />
     </div>
 
     <div class="pr-box">
-      このページのコードは、全部メアの紹介コードだよ💌 このページに載せている紹介コード・招待コード・紹介リンクは、すべてメアの紹介だよ。下のボタンやリンクから登録したり、コードを使って各サービスの条件を満たしたりすると、メアにポイントや報酬などの紹介報酬が発生する場合があります。紹介を使っても、あなたに追加の料金や不利な条件は一切ないから安心してね♡ むしろ各カードに書いた紹介特典（ボーナスポイントなど）がもらえる仕組みだよ。特典の金額は条件をすべて満たした場合の最大値で、もらえるかどうかは各サービスの公式条件で決まります。くわしくはページ下部の<a href="/ad-disclosure/">「広告・紹介報酬に関する表示」</a>を見てね。
+      このページのコードは、全部メアの紹介コードだよ💌 このページに載せている紹介コード・招待コード・紹介リンクは、すべてメアの紹介だよ。下のボタンやリンクから登録したり、コードを使って各サービスの条件を満たしたりすると、メアにポイントや報酬などの紹介報酬が発生する場合があります。紹介を使っても、あなたに追加の料金や不利な条件は一切ないから安心してね♡ むしろ各カードに書いた紹介特典（ボーナスポイントなど）がもらえる仕組みだよ。特典の金額は条件をすべて満たした場合の最大値で、もらえるかどうかは各サービスの公式条件で決まります。くわしくはページ下部の<a href="/mea-code-matome/ad-disclosure/">「広告・紹介報酬に関する表示」</a>を見てね。
     </div>
 
     <p class="article-meta">🎀 全19サービス・コードはコピーボタン付き・特典・条件つき／最終更新：2026年11月19日／特典額・条件は各サービスの紹介キャンペーン内容をもとに掲載しているよ♪ キャンペーンは予告なく変更・終了する場合があるから、登録前に公式ページもチェックしてね💡</p>
@@ -167,7 +167,7 @@ const categoryHeadings: Record<string, string> = {
         <p>{f.a}</p>
       </div>
     ))}
-    <p><a href="/faq/">よくある質問の一覧を見る →</a></p>
+    <p><a href="/mea-code-matome/faq/">よくある質問の一覧を見る →</a></p>
 
     <h2>ご利用にあたっての注意</h2>
     <ul>
@@ -187,7 +187,7 @@ const categoryHeadings: Record<string, string> = {
     <h2>📂 カテゴリー</h2>
     <ul>
       {CATEGORIES.map((c) => (
-        <li><a href={`/categories/${c.slug}/`}>{c.name}</a>（{byCategory(c.slug).length}）</li>
+        <li><a href={`/mea-code-matome/categories/${c.slug}/`}>{c.name}</a>（{byCategory(c.slug).length}）</li>
       ))}
     </ul>
 
@@ -196,7 +196,7 @@ const categoryHeadings: Record<string, string> = {
 
     <h2>🎀 この紹介コードまとめについて</h2>
     <p>ポイ活大好きなメアが、実際に使っている紹介コードだけを、一覧表で比べやすいようにまとめたページだよ💖 特典額や条件が変わったら随時更新していくね♪</p>
-    <p><a href="/about/">運営者情報を見る →</a></p>
+    <p><a href="/mea-code-matome/about/">運営者情報を見る →</a></p>
 
     <AdSlot />
   </div>
