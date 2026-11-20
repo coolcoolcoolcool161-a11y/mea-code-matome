@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mea-code-matome.pages.dev/sitemap.xml
