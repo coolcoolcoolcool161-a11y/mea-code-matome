@@ -7,6 +7,7 @@ benefit: "500ptプレゼント"
 benefitSub: "招待コード入力で、500ptプレゼント"
 code: "AZ3pOY"
 url: "https://bit.ly/4fEUA8S"
+image: "/images/banner-orikuji.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

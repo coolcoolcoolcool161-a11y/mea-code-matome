@@ -6,6 +6,7 @@ category: "other"
 benefit: "合計1300円分"
 benefitSub: "新規オープン記念で500円無料、50円で1000円分＋LINE連携で300円分"
 code: "2BGZ325P"
+image: "/images/banner-pokekatsu.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

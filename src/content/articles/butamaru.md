@@ -7,6 +7,7 @@ benefit: "500pt（50円分）"
 benefitSub: "条件：初回起動時にコード入力＋ブタップ10回＋アカウント作成"
 code: "JUTN9FH"
 url: "https://app.moneypig.gy/friend_code?friend_code=JUTN9FH"
+image: "/images/banner-butamaru.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

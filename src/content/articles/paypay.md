@@ -7,6 +7,7 @@ benefit: "300pt"
 benefitSub: "対象の支払い方法で1,000円以上の支払いをすると、あなたに300pt付与"
 code: "02-49XLFP8"
 url: "https://s.paypay.ne.jp/5HWsZW"
+image: "/images/banner-paypay.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

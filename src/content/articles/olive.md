@@ -7,6 +7,7 @@ benefit: "Vポイント1,000円相当"
 benefitSub: "エントリー＋Oliveアカウント契約＋契約日の翌月末時点で残高10,000円以上"
 code: "FF89103-3439377"
 url: "https://www.smbc.co.jp/kojin/redirect/referral04/index.html"
+image: "/images/banner-olive.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

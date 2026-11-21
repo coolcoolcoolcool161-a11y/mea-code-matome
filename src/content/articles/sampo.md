@@ -7,6 +7,7 @@ benefit: "4,000pt"
 benefitSub: "新規登録で。歩くだけでポイントが貯まる無料アプリです"
 code: "GTKZ6E"
 officialSite: "https://www.sampo.cash/ja"
+image: "/images/banner-sampo.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0

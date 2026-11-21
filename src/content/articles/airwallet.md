@@ -7,6 +7,7 @@ benefit: "Pontaポイント300ポイント"
 benefitSub: "紹介リンクから登録するともらえます"
 code: "qpgtg29"
 url: "https://point.recruit.co.jp/recruitid/doc/campaign/aw/airwallet202610_invitation/W7nd8/?vos=wercdSGCbnrlink20250121621"
+image: "/images/banner-airwallet.jpg"
 dateModified: "2026-11-19"
 featured: false
 rank: 0
