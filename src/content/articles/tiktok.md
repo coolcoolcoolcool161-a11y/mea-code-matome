@@ -14,6 +14,7 @@ sortYen: 6000
 points:
   - "特典：6,000円分の報酬チャンス"
   - "条件：新規登録でイベントに参加"
+image: "https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-blog/images/banner-tiktok.jpg"
 ---
 
 ## まとめ一覧での特典

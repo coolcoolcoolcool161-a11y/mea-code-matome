@@ -15,6 +15,7 @@ sortYen: 1430
 points:
   - "特典：新規登録で約1,430円相当のポイント"
   - "条件：紹介リンクから登録し、対象ゲームをプレイ"
+image: "https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-blog/images/banner-freecash.jpg"
 ---
 
 ## まとめ一覧での特典
