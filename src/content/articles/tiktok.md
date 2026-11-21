@@ -21,6 +21,8 @@ image: "https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-blog/images/bann
 
 一覧表では「6,000円分の報酬チャンス」とまとめているよ。TikTokとTikTok Liteは似ているけど、コードも特典額も別もの。TikTokは最大6,000円分、Liteは1,400円分。間違えないように一覧で見比べてね💡
 
+![TikTokの招待特典（最大6,000円分）の案内画像](/images/tiktok-promo-mea.webp)
+
 ## このサービスについて
 
 ショート動画アプリ「TikTok」。紹介コードを使うとイベントに参加できて、報酬獲得のチャンスがあるよ。登録するときは、Wi-FiをOFFにしてモバイル通信でアクセスすること、招待URLを直接開くこと、「ダウンロードを開く」ではなく紹介URLから進むことの3点がコツだよ✨
