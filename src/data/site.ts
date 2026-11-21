@@ -6,13 +6,13 @@ export const SITE = {
   siteUrl: 'https://coolcoolcoolcool161-a11y.github.io/mea-code-matome',
   description:
     'ポイ活の紹介コード・招待コードを19サービス分まとめて掲載。ワラウ最大2,500pt、ハピタス最大2,300P、モッピー最大7,000P、TikTok・TikTok Lite、PayPay、メルカリ、エアウォレット、楽天モバイル、オリくじ、ポケカツ、Freecash、SMBC Olive、Muse、サンポ、ぶたまる、ミラポイ、トクエル、dipsファームの特典・条件・紹介リンクを一覧で比較。コードはコピーボタンでそのまま使えます。',
-  dateModified: '2026-11-19',
+  dateModified: '2026-11-21',
   gaMeasurementId: 'G-8BB8V3DRW8',
   xAccount: 'https://x.com/pppppuririn',
   hubUrl:
     'https://coolcoolcoolcool161-a11y.github.io/mea-poikatsu-media/',
-  // 新しい掲示板は公開準備中。公開後はこちらから開けます。
-  boardUrl: 'https://mea-keijiban.pages.dev',
+  // みんなの紹介コード掲示板（公開中）
+  boardUrl: 'https://coolcoolcoolcool161-a11y.github.io/mea-keijiban/',
 } as const;
 
 // Astro 5ではcontent collectionのentry.idに拡張子（.md）が付くため、URL用スラッグに変換する
